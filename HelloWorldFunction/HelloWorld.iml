@@ -16,7 +16,6 @@
     <orderEntry type="library" name="Maven: software.amazon.awssdk:protocol-core:2.15.53" level="project" />
     <orderEntry type="library" name="Maven: software.amazon.awssdk:profiles:2.15.53" level="project" />
     <orderEntry type="library" name="Maven: software.amazon.awssdk:sdk-core:2.15.53" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.28" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.5.1" level="project" />
     <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.2" level="project" />
     <orderEntry type="library" name="Maven: software.amazon.awssdk:auth:2.15.53" level="project" />
@@ -52,5 +51,9 @@
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.6" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:sqs:2.15.53" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:aws-query-protocol:2.15.53" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
   </component>
 </module>
